@@ -1,0 +1,5 @@
+from nltk.tokenize import word_tokenize
+my_str = 'Hello World!!!'
+words = word_tokenize(my_str)
+print(words)
+
